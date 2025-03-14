@@ -8,7 +8,7 @@
   - Come scrivere e salvare il primo codice
 
 - [ ] Lezione 1.2: Preparazione dell'ambiente di sviluppo
-  - Installazione di Android Studio
+  - Installazione di Cursor
   - Configurazione del JDK (Java Development Kit)
   - Creazione del primo progetto Android
   - Struttura base di un progetto Android
